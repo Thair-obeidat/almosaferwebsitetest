@@ -5,8 +5,8 @@
     <classes>
       <class name="homepage.myTestCases">
         <methods>
+          <include name="RandomlyChangeTheLanguage"/>
           <include name="mySetup"/>
-          <include name="SortItem"/>
         </methods>
       </class> <!-- homepage.myTestCases -->
     </classes>
